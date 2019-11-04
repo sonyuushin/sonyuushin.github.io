@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: Profile
 tagline: A few more words about this theme
-permalink: /about.html
-ref: about
+permalink: /profile.html
+ref: profile
 order: 0
 ---
 
