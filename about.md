@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Profile
-tagline: This is my profile
+tagline: 
 permalink: /profile.html
 ref: about
 order: 0
