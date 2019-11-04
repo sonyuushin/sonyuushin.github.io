@@ -3,7 +3,7 @@ layout: page
 title: Profile
 tagline: A few more words about this theme
 permalink: /profile.html
-ref: profile
+ref: about
 order: 0
 ---
 
