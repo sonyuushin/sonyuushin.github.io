@@ -7,6 +7,6 @@ ref: now
 order: 2
 ---
 
-これは日本語のサイトです。
+作成中です。
 
 [Go to the Home Page]({{ '/' | absolute_url }})
