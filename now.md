@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 日本語
+title: プロフィール
 tagline: 
 permalink: /nihongo.html
 ref: now
