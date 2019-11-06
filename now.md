@@ -1,9 +1,9 @@
 ---
 layout: page
-title: プロフィール
+title: Research
 tagline: 
-permalink: /nihongo.html
-ref: now
+permalink: /research.html
+ref: research
 order: 2
 ---
 
