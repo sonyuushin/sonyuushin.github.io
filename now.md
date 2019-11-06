@@ -9,4 +9,3 @@ order: 2
 
 作成中です。
 
-[Go to the Home Page]({{ '/' | absolute_url }})
