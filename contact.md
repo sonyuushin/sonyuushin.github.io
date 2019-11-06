@@ -7,4 +7,3 @@ order: 1
 ---
 
 
-[Go to the Home Page]({{ '/' | absolute_url }})
