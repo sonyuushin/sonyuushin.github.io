@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 个人简介
+title: 中文
 tagline: 
 permalink: /zhongwen.html
 ref: zhongwen
