@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Profile
+title: CV
 tagline: 
-permalink: /profile.html
-ref: about
+permalink: /cv.html
+ref: cv
 order: 0
 ---
 
