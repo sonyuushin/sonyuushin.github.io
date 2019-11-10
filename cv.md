@@ -28,3 +28,9 @@ order: 0
 2016.9ー2018.8　　東京大学　理学部化学科　卒業
 
 2018.9ー　　　　　 東京大学　理学系研究科　地球惑星科学専攻　修士課程在学中
+
+<br />
+
+## Work experience
+
+2019.5ー　　　　　 Research Assistant, Biogeochemistry Program, JAMSTEC
