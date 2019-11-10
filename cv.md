@@ -7,6 +7,7 @@ ref: cv
 order: 0
 ---
 
-Updating now...
+## 这里是中文
 
+中文简介更新中
 
