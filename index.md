@@ -8,6 +8,6 @@
 layout: home
 ---
 
-I am a master student at Department of Earth and Planetary Science, the University of Tokyo. I am now working at Biogeochemistry Program, JAMSTEC as a research student.
+I am a master student at Department of Earth and Planetary Science, the University of Tokyo. I am now working at Biogeochemistry Program, JAMSTEC as a research student as well.
 
 My research topics are CSIA of amino acids and the study of carbon cycle in the marine ecosystem.
