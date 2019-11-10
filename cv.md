@@ -18,6 +18,7 @@ order: 0
 2018.9-　　　　　 Department of Earth and Planetary Science, GraduatenSchool of Science,The University of Tokyo
   
 <br />
+
 2011.9-2014.8　　江蘇省常州高級中学
 
 2014.9-2016.8　　南京大学　理科強化班
