@@ -8,4 +8,4 @@
 layout: home
 ---
 
-Hello！
+I am a master student at Department of Earth and Planetary Science, the University of Tokyo. I also work at Biogeochemistry Program, JAMSTEC as a research student.
