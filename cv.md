@@ -7,7 +7,7 @@ ref: cv
 order: 0
 ---
 
-### Educational background
+## Educational background
 
 2011.9-2014.8　 Changzhou Senior High School of Jiangsu Province
 
