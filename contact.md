@@ -6,14 +6,15 @@ ref: contact
 order: 1
 ---
 
+E-mail: sonyuushin@jamstec.go.jp
+
+Tel: +81-46-867-9781
+
+## Address
 
 Biogeochemistry Program, Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
 
 2-15 Natsushima-cho, Yokosuka, Japan
-
-Tel: +81-46-867-9781
-
-<br />
 
 海洋研究開発機構 生物地球化学プログラム
 
