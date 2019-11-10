@@ -11,12 +11,13 @@ order: 0
 
 2011.9-2014.8　　Changzhou Senior High School of Jiangsu Province, China
 
-2014.9-2016.8　　Undergradute courseKuang Yaming Honor School, Nanjing Universtiy, China
+2014.9-2016.8　　Kuang Yaming Honor School, Nanjing Universtiy, China
 
-2016.9-2018.8　　Undergradute course, Department of Chemistry, The University of Tokyo, Japan
+2016.9-2018.8　　Department of Chemistry, School of Science, The University of Tokyo, Japan
 
-2018.9-　　　　　 Master course, Department of Earth and Planetary Science, The University of Tokyo, Japan
-
+2018.9-　　　　　 Department of Earth and Planetary Science, GraduatenSchool of Science,The University of Tokyo, Japan
+  
+  
 
 2011.9-2014.8　江蘇省常州高級中学
 
