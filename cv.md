@@ -21,7 +21,7 @@ order: 0
 
 2019.5ー　　　　　 Research Assistant, Biogeochemistry Program, JAMSTEC
 
-<br />
+------------
 
 ## 学歴
 
