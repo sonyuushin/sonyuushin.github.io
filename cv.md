@@ -9,6 +9,8 @@ order: 0
 
 ## Educational background
 
+<br />
+
 2011.9ー2014.8　 Changzhou Senior High School of Jiangsu Province
 
 2014.9ー2016.8　 Kuang Yaming Honor School, Nanjing Universtiy
