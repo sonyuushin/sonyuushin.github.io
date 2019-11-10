@@ -15,7 +15,7 @@ order: 0
 
 2016.9-2018.8　 Department of Chemistry, School of Science, The University of Tokyo
 
-2018.9-　　　　Master course, Department of Earth and Planetary Science, The University of Tokyo
+2018.9-　　　　 Master course, Department of Earth and Planetary Science, The University of Tokyo
   
 <br />
 
