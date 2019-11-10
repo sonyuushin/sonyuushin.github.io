@@ -12,4 +12,6 @@ Welcome to my homepage!
 
 I am a master student at Department of Earth and Planetary Science, the University of Tokyo. I also work at Biogeochemistry Program, JAMSTEC as a research student.
 
-My research topic is the 
+My research topics are:
+·CSIA of amino acids
+·Carbon cycle in the marine ecosystem
