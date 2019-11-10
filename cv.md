@@ -15,7 +15,7 @@ order: 0
 
 2016.9-2018.8　　Department of Chemistry, School of Science, The University of Tokyo
 
-2018.9-　　　　　 Department of Earth and Planetary Science, GraduatenSchool of Science,The University of Tokyo
+2018.9-  　　　　 Master course, Department of Earth and Planetary Science,The University of Tokyo
   
 <br />
 
@@ -25,4 +25,4 @@ order: 0
 
 2016.9-2018.8　　東京大学　理学部化学科
 
-2018.9-　　　　 　東京大学　理学系研究科　地球惑星科学専攻　修士課程
+2018.9-  　　　 　東京大学　理学系研究科　地球惑星科学専攻　修士課程
