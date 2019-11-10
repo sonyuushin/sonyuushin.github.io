@@ -1,11 +1,21 @@
 ---
 layout: page
 title: Contact
-tagline: Create a contact form and you are good to go
+tagline: 
 ref: contact
 order: 1
 ---
 
-Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why you need a third part service.
 
-[Go to the Home Page]({{ '/' | absolute_url }})
+Biogeochemistry Program, Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
+
+2-15 Natsushima-cho, Yokosuka, Japan
+
+Tel: +81-46-867-9781
+
+
+
+海洋研究開発機構 生物地球化学プログラム
+
+〒237-0061  神奈川県横須賀市夏島町2番地15
+
