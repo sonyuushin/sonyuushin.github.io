@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 个人简介
+title: Publications
 tagline: 
 permalink: /publications.html
 ref: publications
