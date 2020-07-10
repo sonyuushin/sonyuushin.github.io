@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Publications
+title: Achievements
 tagline: 
-permalink: /publications.html
+permalink: /achievements.html
 ref: publications
 order: 5
 ---
