@@ -11,13 +11,13 @@ order: 5
 <b>(1) Original papers</b>
 
 
-1. <b><u>Yuchen Sun</u></b>, Chikako Fujimoto, Hiroyuki Kagi, Pressure-induced esterification reaction between phosphoric acid and methanol, <i>Chemistry Letters</i>, <b>2020</b>, in press. doi:10.1246/cl.200289.
+1. <b><u>Yuchen Sun</u></b>, Chikako Fujimoto, Hiroyuki Kagi, Pressure-induced esterification reaction between phosphoric acid and methanol, <i>Chemistry Letters</i>, <b>2020</b>, in press. <a href="https://www.journal.csj.jp/doi/10.1246/cl.200289">doi:10.1246/cl.200289</a>.
 
 2. <b><u>Yuchen Sun</u></b>, Naoto F. Ishikawa, Nanako O. Ogawa, Hodaka Kawahata, Yoshinori Takano, Naohiko Ohkouchi, A New method for stable carbon isotope measurement of underivatized individual amino acids by multi-dimensional multi-dimensional high-performance liquid chromatography and elemental analyzer/isotope ratio mass spectrometry, <i>Rapid Communications in Mass Spectrometry</i>, <b>2020</b>, in press. doi:10.1002/rcm.8885.
 
 <br>
 
-(2) <b>International conference presentations</b>
+<b>(2) International conference presentations</b>
 
 (Oral)
 
