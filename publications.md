@@ -15,7 +15,7 @@ order: 5
 
 2. <b><u>Yuchen Sun</u></b>, Naoto F. Ishikawa, Nanako O. Ogawa, Hodaka Kawahata, Yoshinori Takano, Naohiko Ohkouchi, A New method for stable carbon isotope measurement of underivatized individual amino acids by multi-dimensional multi-dimensional high-performance liquid chromatography and elemental analyzer/isotope ratio mass spectrometry, Rapid Communications in Mass Spectrometry, 2020, in press. doi:10.1002/rcm.8885.
 
-
+<br>
 
 (2) <b>International conference presentations</b>
 
@@ -32,7 +32,7 @@ Poster
 6. 〇<b><u>Yuchen Sun</u></b>, Naoto F. Ishikawa, Nanako O. Ogawa, Hodaka Kawahata, Yoshinori Takano, Naohiko Ohkouchi, High-precision compound-specific carbon isotopic analysis of underivatized amino acids using a multi-dimensional HPLC and nano-EA/IRMS, EGU General Assembly 2020, Vienna, Austria, May 2020. doi:10.5194/egusphere-egu2020-1601.
 
 
-
+<br>
 
 <b>(3) Domestic conference presentations</b>
 
