@@ -13,7 +13,7 @@ order: 5
 
 1. Yuchen Sun, Chikako Fujimoto, Hiroyuki Kagi, Pressure-induced esterification reaction between phosphoric acid and methanol, Chemistry Letters, 2020, in press. doi:10.1246/cl.200289.
 
-2. Yuchen Sun, Naoto F. Ishikawa, Nanako O. Ogawa, Hodaka Kawahata, Yoshinori Takano, Naohiko Ohkouchi, A New method for stable carbon isotope measurement of underivatized individual amino acids by multi-dimensional HPLC and EA/IRMS, Rapid Communications in Mass Spectrometry, 2020, in press.
+2. Yuchen Sun, Naoto F. Ishikawa, Nanako O. Ogawa, Hodaka Kawahata, Yoshinori Takano, Naohiko Ohkouchi, A New method for stable carbon isotope measurement of underivatized individual amino acids by multi-dimensional multi-dimensional high-performance liquid chromatography and elemental analyzer/isotope ratio mass spectrometry, Rapid Communications in Mass Spectrometry, 2020, in press.
 
 
 (2) International conference presentations
