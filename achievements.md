@@ -29,7 +29,7 @@ order: 5
 
 (Poster)
 
-6. 〇<b><u>Yuchen Sun</u></b>, Naoto F. Ishikawa, Nanako O. Ogawa, Hodaka Kawahata, Yoshinori Takano, Naohiko Ohkouchi, High-precision compound-specific carbon isotopic analysis of underivatized amino acids using a multi-dimensional HPLC and nano-EA/IRMS, EGU General Assembly 2020, Vienna, Austria, May 2020. doi:10.5194/egusphere-egu2020-1601.
+6. 〇<b><u>Yuchen Sun</u></b>, Naoto F. Ishikawa, Nanako O. Ogawa, Hodaka Kawahata, Yoshinori Takano, Naohiko Ohkouchi, High-precision compound-specific carbon isotopic analysis of underivatized amino acids using a multi-dimensional HPLC and nano-EA/IRMS, EGU General Assembly 2020, Vienna, Austria, May 2020. <a href="https://meetingorganizer.copernicus.org/EGU2020/EGU2020-1601.html">doi:10.5194/egusphere-egu2020-1601</a>.
 
 
 <br>
