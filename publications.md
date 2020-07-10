@@ -19,21 +19,21 @@ order: 5
 
 Oral
 
-〇Yuchen Sun, A new method for high-precision measurement for stable carbon isotope of amino acids, International Symposium on Isotope Physiology, Ecology, and Geochemistry 2019, Sapporo, June 2019. 
+3. 〇Yuchen Sun, A new method for high-precision measurement for stable carbon isotope of amino acids, International Symposium on Isotope Physiology, Ecology, and Geochemistry 2019, Sapporo, June 2019. 
 
-〇Yuchen Sun, Hodaka Kawahata, Naoto F. Ishikawa, Nanako O. Ogawa, Yoshinori Takano, Naohiko Ohkouchi, Determination of compound-specific stable carbon isotopic compositions of individual amino acids: A potential tool for environmental study, The Univ. of Tokyo-Tongji Univ. Joint Workshop on Geoscience, Tokyo, September 2019. 
+4. 〇Yuchen Sun, Hodaka Kawahata, Naoto F. Ishikawa, Nanako O. Ogawa, Yoshinori Takano, Naohiko Ohkouchi, Determination of compound-specific stable carbon isotopic compositions of individual amino acids: A potential tool for environmental study, The Univ. of Tokyo-Tongji Univ. Joint Workshop on Geoscience, Tokyo, September 2019. 
 
-〇Yuchen Sun, Chikako Fujimoto, Hiroyuki Kagi, Pressure-induced esterification reaction between phosphoric acid and methanol: a possibility of prebiotic formation of alkyl phosphate and phospholipid at high pressure, JpGU-AGU Joint Meeting 2020, Chiba, July 2020. 
+5. 〇Yuchen Sun, Chikako Fujimoto, Hiroyuki Kagi, Pressure-induced esterification reaction between phosphoric acid and methanol: a possibility of prebiotic formation of alkyl phosphate and phospholipid at high pressure, JpGU-AGU Joint Meeting 2020, Chiba, July 2020. 
 
 Poster
 
-〇Yuchen Sun, Naoto F. Ishikawa, Nanako O. Ogawa, Hodaka Kawahata, Yoshinori Takano, Naohiko Ohkouchi, High-precision compound-specific carbon isotopic analysis of underivatized amino acids using a multi-dimensional HPLC and nano-EA/IRMS, EGU General Assembly 2020, Vienna, Austria, May 2020. doi:10.5194/egusphere-egu2020-1601.
+6. 〇Yuchen Sun, Naoto F. Ishikawa, Nanako O. Ogawa, Hodaka Kawahata, Yoshinori Takano, Naohiko Ohkouchi, High-precision compound-specific carbon isotopic analysis of underivatized amino acids using a multi-dimensional HPLC and nano-EA/IRMS, EGU General Assembly 2020, Vienna, Austria, May 2020. doi:10.5194/egusphere-egu2020-1601.
 
 
 (3) Domestic conference presentations
 
 Oral
 
-〇鍵裕之, 高橋修也, 三村耕一, 篠崎彩子, 小松一生, 藤本千賀子, 孫語辰, 高圧下での有機化学反応からみた氷惑星における分子進化の可能性, 第59回高圧討論会, 岡山, 2018年11月.
+7. 〇鍵裕之, 高橋修也, 三村耕一, 篠崎彩子, 小松一生, 藤本千賀子, 孫語辰, 高圧下での有機化学反応からみた氷惑星における分子進化の可能性, 第59回高圧討論会, 岡山, 2018年11月.
 
-〇Yuchen Sun, Naoto F. Ishikawa, Nanako O. Ogawa, Hodaka Kawahata, Yoshinori Takano, Naohiko Ohkouchi, Study of aquatic food web based on high-precision stable carbon isotopic measurement of individual amino acids, 第67回日本生態学会大会, 名古屋, 2020年3月. 
+8. 〇Yuchen Sun, Naoto F. Ishikawa, Nanako O. Ogawa, Hodaka Kawahata, Yoshinori Takano, Naohiko Ohkouchi, Study of aquatic food web based on high-precision stable carbon isotopic measurement of individual amino acids, 第67回日本生態学会大会, 名古屋, 2020年3月. 
