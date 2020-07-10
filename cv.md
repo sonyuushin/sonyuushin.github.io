@@ -20,7 +20,7 @@ order: 0
 ## Work experience
 
 2019.5ー　　　　　 Research Assistant, Biogeochemistry Research Center (BGC), 
-　　　　　　　　　 　Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
+　　　　　　　　　 Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
 
 
 
