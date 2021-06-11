@@ -20,7 +20,8 @@ order: 0
 ## Work experience
 
 2019.5ー2020.9　　Research Assistant, Biogeochemistry Research Center (BGC), 
-　　　　　　　　　　Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
+　　　　　　　　　　Japan Agency for Marine-Earth Science and Technology (JAMSTEC).
+
           
 2021.4-          Research Fellow (DC1), Japan Society for the Promotion of Science.
 
