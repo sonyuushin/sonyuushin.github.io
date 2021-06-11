@@ -15,11 +15,12 @@ order: 0
 
 2016.9ー2018.8　 Department of Chemistry, The University of Tokyo
 
-2018.9ー　　　　      Department of Earth and Planetary Science, The University of Tokyo
+2018.9ー　　　　　 Department of Earth and Planetary Science, The University of Tokyo
 
 ## Work experience
 
-2019.5ー2020.9　　Research Assistant, Biogeochemistry Research Center (BGC), Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
+2019.5ー2020.9　　Research Assistant, Biogeochemistry Research Center (BGC), 
+　　　　　　　　　　Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
           
 2021.4-          Research Fellow (DC1), Japan Society for the Promotion of Science.
 
