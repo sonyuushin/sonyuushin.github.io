@@ -10,7 +10,7 @@ order: 5
 
 <b>(1) Original papers</b>
 
-(As the first/corrensponding author)
+(As first/corrensponding author)
 
 1. <b><u>Yuchen Sun</u></b>, Chikako Fujimoto, Hiroyuki Kagi, Pressure-induced esterification reaction between phosphoric acid and methanol, <i>Chemistry Letters</i>, <b>2020</b>, 49(8), 885-887. <a href="https://www.journal.csj.jp/doi/10.1246/cl.200289">doi:10.1246/cl.200289</a>.
 
@@ -20,7 +20,7 @@ order: 5
 
 <b>(2) Conference presentations</b>
 
-(As the presenter)
+(As presenter)
 
 3. 〇<b><u>Yuchen Sun</u></b>, A new method for high-precision measurement for stable carbon isotope of amino acids, International Symposium on Isotope Physiology, Ecology, and Geochemistry 2019, Sapporo, June 2019. （Oral）
 
