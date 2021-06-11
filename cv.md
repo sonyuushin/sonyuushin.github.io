@@ -21,14 +21,15 @@ order: 0
 
 2019.5ー2020.9　　Research Assistant, Biogeochemistry Research Center (BGC), 
 　　　　　　　　　 Japan Agency for Marine-Earth Science and Technology (JAMSTEC)
-2021.4-         Research Fellow (DC1), Japan Society for the Promotion of Science.
+          
+2021.4-          Research Fellow (DC1), Japan Society for the Promotion of Science.
 
 
 ------------
 
 ## 学歴
 
-2018　東京大学　理学部 化学科　卒業
+2018　学士 （理学） 東京大学
 
-2020　東京大学　理学系研究科　地球惑星科学専攻　修士課程 修了
+2020　修士 （理学） 東京大学
 
