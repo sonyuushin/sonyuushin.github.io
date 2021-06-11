@@ -13,3 +13,5 @@ author: Sun
 
 
 header_page_refs: ['zhongwen', 'cv', 'research', 'achievements','contact']
+
+theme: jekyll-theme-slate
