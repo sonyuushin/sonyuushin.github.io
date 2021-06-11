@@ -6,9 +6,10 @@ ref: contact
 order: 1
 ---
 
-E-mail: sonyuushin@jamstec.go.jp
+E-mail: sonyuushin@jamstec.go.jp， sun@aori.u-tokyo.ac.jp
 
 Tel: +81-46-867-9781
+
 
 ## Address
 
