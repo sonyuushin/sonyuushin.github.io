@@ -23,7 +23,7 @@ order: 0
 　　　　　　　　　Japan Agency for Marine-Earth Science and Technology (JAMSTEC).
 
           
-2021.4-          Research Fellow (DC1), Japan Society for the Promotion of Science.
+2021.4-　　　　　　Research Fellow (DC1), Japan Society for the Promotion of Science.
 
 
 ------------
